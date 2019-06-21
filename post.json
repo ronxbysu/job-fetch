@@ -1,0 +1,9 @@
+{
+  "from": "680",
+  "query": {
+    "match": {
+      "function.id": "information_technology"
+    }
+  },
+  "size": "50"
+}
